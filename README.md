@@ -8,6 +8,8 @@ If you use this data set in an academic publication, we would be ever so gratefu
 
 Janine Siewiert, Olga Erina & Jack Rueter. (2019, September 5). Wiedemann, F. J. Grammatik der ersa-mordwinischen Sprache. 1865 (Version v1.0)
 
+[![DOI](https://zenodo.org/badge/206095106.svg)](https://zenodo.org/badge/latestdoi/206095106)
+
 # Introduction
 This document follows the formatting for the first grammar of Erzya [here](https://github.com/rueter/Erzya-grammar-Gabelentz-1838-39)
 
