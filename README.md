@@ -1,6 +1,6 @@
 # Erzya grammar by Wiedemann 1865
 F. J. Wiedemann's grammar of Erzya is based on previous research work by Herr Conrad von Der Gabelentz (1838–39) and interviews with native speakers he had access to in  Reval (Tallinn). No fieldwork was conducted in the Erzya homeland.
-The grammar can be viewed [here](https://rueter.github.io/Erzya-grammar-Wiedemann-1865/WiedemannFJ_Grammatik-der-ersa-mordwinischen-Sprache_1865.html).
+The grammar can be viewed [here](https://rueter.github.io/Erzya-grammar-Wiedemann-1865/docs/WiedemannFJ_Grammatik-der-ersa-mordwinischen-Sprache_1865.html).
 
 # Cite
 
